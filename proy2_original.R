@@ -1,3 +1,9 @@
+# PES Programación II, Proyecto 2
+# proy2_original.R
+# Analisis impulso respuesta del deflactor del PIB y el PIB real de Guatemala
+# Ester Quiñonez, Pablo Gutierrez, Joel Juarez
+# mariaestermil@gmail.com, pablomation@gmail.com, joel771992@gmail.com
+
 library (ggplot2)
 library(tidyverse)
 library(forecast)
